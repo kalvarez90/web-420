@@ -1,6 +1,6 @@
 /*
 ============================================
-; Title:  alvarez-hello-world.js
+; Title:  api-catalog.js
 ; Author: Professor Krasso
 ; Date:   22 October 2020
 ; Modified by: Karina Alvarez

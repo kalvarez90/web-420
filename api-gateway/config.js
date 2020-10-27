@@ -1,6 +1,6 @@
 /*
 ============================================
-; Title:  alvarez-hello-world.js
+; Title:  config.js
 ; Author: Professor Krasso
 ; Date:   16 October 2020
 ; Modified by: Karina Alvarez

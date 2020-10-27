@@ -4,7 +4,7 @@ console.log(header.display("Karina", "Alvarez", "Assignment 1.4 - API Gateway Pa
 console.log ('\n');
 /*
 ============================================
-; Title:  alvarez-hello-world.js
+; Title:  app.js
 ; Author: Professor Krasso
 ; Date:   16 October 2020
 ; Modified by: Karina Alvarez
