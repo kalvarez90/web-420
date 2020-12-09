@@ -1,4 +1,4 @@
-const header = require('../alvarez-header');
+const header = require('./alvarez-header');
 
 console.log(header.display("Karina", "Alvarez", "Assignment 1.4 - API Gateway Part I"));
 console.log ('\n');
